@@ -37,10 +37,10 @@ Este projeto analisa a efetividade dos agentes do Valorant no cenário competiti
 ## 📈 Visualizações
 
 ### Efetividade dos Agentes
-![Efetividade dos agentes por role](efetividadesdosagentes.png)
+![Efetividade dos agentes por role](image/efetividades-agentes.png)
 
 ### Pick rate medio por role
-![Pick rate medio por role](pickratemedioporrole.png)
+![Pick rate medio por role](pickrate-role.png)
 
 ## 🛠️ Stack Tecnológico
 
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 3. Execute a análise:
 ```bash
-python valorant_analysis.py
+python valorant_e_analise_de_dados.py
 ```
 
 ## 🔮 Melhorias Futuras
