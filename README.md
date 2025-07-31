@@ -84,7 +84,7 @@ valorant-meta-analysis/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/[SEU_USERNAME]/valorant-meta-analysis.git
+git clone https://github.com/Gaab-elle/valorant-meta-analysis.git
 cd valorant-meta-analysis
 ```
 
@@ -130,7 +130,7 @@ python valorant_analysis.py
 
 Sinta-se à vontade para entrar em contato para colaborações ou dúvidas sobre analytics em e-sports!
 
-**[Seu Nome]** - Cientista de Dados especializado em E-Sports Analytics
+**Gabrielle Ribeiro** - Cientista de Dados especializado em E-Sports Analytics
 - LinkedIn: www.linkedin.com/in/gabz-ribeiro
 - Email: contato.gabriellerib@gmail.com
 
@@ -145,5 +145,3 @@ O Valorant é um FPS tático da Riot Games com 4 funções principais:
 - **🛡️ Sentinela**: Defesa e controle de área (Sage, Cypher, Killjoy, etc.)
 
 ---
-
-*Este projeto demonstra habilidades de data science aplicadas ao e-sports, showcasing web scraping, análise estatística e insights acionáveis para negócios.*
