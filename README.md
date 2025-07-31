@@ -1,4 +1,4 @@
-# 🎯 Análise da Meta do Valorant - Estudo de Efetividade dos Agentes
+# Análise da Meta do Valorant - Estudo de Efetividade dos Agentes
 
 > Projeto de Data Science analisando a efetividade dos agentes no Valorant competitivo usando dados reais do VLR.gg
 
@@ -36,14 +36,11 @@ Este projeto analisa a efetividade dos agentes do Valorant no cenário competiti
 
 ## 📈 Visualizações
 
-### Análise Pick Rate vs Win Rate
-![Pick Rate vs Win Rate](images/pick_rate_vs_winrate.png)
+### Efetividade dos Agentes
+![Efetividade dos agentes por role](efetividadesdosagentes.png)
 
-### Comparação por Função
-![Comparação por Função](images/role_comparison.png)
-
-### Ranking de Eficiência
-![Ranking de Eficiência](images/efficiency_ranking.png)
+### Pick rate medio por role
+![Pick rate medio por role](pickratemedioporrole.png)
 
 ## 🛠️ Stack Tecnológico
 
