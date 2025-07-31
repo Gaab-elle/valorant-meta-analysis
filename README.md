@@ -37,7 +37,7 @@ Este projeto analisa a efetividade dos agentes do Valorant no cenário competiti
 ## 📈 Visualizações
 
 ### Efetividade dos Agentes
-![Efetividade dos agentes por role](image/efetividades-agentes.png)
+![Efetividade dos agentes por role](imagem/efetividades-agentes.png)
 
 ### Pick rate medio por role
 ![Pick rate medio por role](pickrate-role.png)
